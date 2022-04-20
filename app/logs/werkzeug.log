@@ -1,0 +1,11 @@
+2022-04-20 02:57:28,345 [INFO] werkzeug: 172.23.0.1 - - [20/Apr/2022 02:57:28] "GET / HTTP/1.1" 200 -
+2022-04-20 02:57:31,316 [INFO] werkzeug: 172.23.0.1 - - [20/Apr/2022 02:57:31] "GET /about HTTP/1.1" 200 -
+2022-04-20 02:57:32,069 [INFO] werkzeug: 172.23.0.1 - - [20/Apr/2022 02:57:32] "GET /welcome HTTP/1.1" 200 -
+2022-04-20 02:57:32,781 [INFO] werkzeug: 172.23.0.1 - - [20/Apr/2022 02:57:32] "GET /about HTTP/1.1" 200 -
+2022-04-20 02:57:33,914 [INFO] werkzeug: 172.23.0.1 - - [20/Apr/2022 02:57:33] "GET /register HTTP/1.1" 200 -
+2022-04-20 02:57:35,090 [INFO] werkzeug: 172.23.0.1 - - [20/Apr/2022 02:57:35] "GET /login HTTP/1.1" 200 -
+2022-04-20 02:57:36,785 [INFO] werkzeug: 172.23.0.1 - - [20/Apr/2022 02:57:36] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2022-04-20 02:57:36,813 [INFO] werkzeug: 172.23.0.1 - - [20/Apr/2022 02:57:36] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-20 02:57:36,815 [INFO] werkzeug: 172.23.0.1 - - [20/Apr/2022 02:57:36] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-20 02:57:36,828 [INFO] werkzeug: 172.23.0.1 - - [20/Apr/2022 02:57:36] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-20 02:57:36,878 [INFO] werkzeug: 172.23.0.1 - - [20/Apr/2022 02:57:36] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
